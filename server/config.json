@@ -1,0 +1,9 @@
+{
+	"token": "<your-token-here>",
+	"jsPrefix": "!js",
+	"phpPrefix": "!php",
+	"stackPrefix": "!stack",
+	"phpSearchQuery" : "http://php.net/results.php?q=$s&l=en&p=all",
+	"jsSearchQuery" : "https://developer.mozilla.org/sv-SE/search?q=$s",
+	"stackSearchQuery" : "https://stackoverflow.com/search?q=$s"
+}
